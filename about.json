@@ -1,0 +1,8 @@
+{
+  "name": "Move Post Links After Topic Metadata",
+  "about_url": "https://github.com/Tris20/discourse-move-post-links-to-top-of-topic",
+  "license_url": "https://github.com/Tris20/discourse-move-post-links-to-top-of-topic/blob/main/LICENSE",
+  "component": true,
+  "authors": ["Tristan Robinson"],
+  "theme_version": "0.1"
+}
