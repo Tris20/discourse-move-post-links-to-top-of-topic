@@ -3,6 +3,6 @@
   "about_url": "https://github.com/Tris20/discourse-move-post-links-to-top-of-topic",
   "license_url": "https://github.com/Tris20/discourse-move-post-links-to-top-of-topic/blob/main/LICENSE",
   "component": true,
-  "authors": ["Tristan Robinson"],
+  "authors": ["Tris20"],
   "theme_version": "0.1"
 }
