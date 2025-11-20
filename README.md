@@ -7,7 +7,7 @@ A small Discourse theme component that repositions the post’s
 
 ## Example
 ### Before
-Without this theme compnent, links at the bottom of the Topic:
+Without this theme component, links at the bottom of the Topic:
 <img width="795" height="352" alt="image" src="https://github.com/user-attachments/assets/4bb2c10d-902a-4e89-ad32-925073de85bc" />
 
 
